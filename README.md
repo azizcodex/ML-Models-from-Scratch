@@ -1,2 +1,3 @@
-# ML-from-Scratch
+# ML Models -from-Scratch
+
 creating machine learning algorithms from scratch 
